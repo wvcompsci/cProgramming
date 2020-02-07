@@ -1,4 +1,4 @@
-/* Robert Aguilar, HW1_4, February 05, 2020 */
+/* Hello World Program, February 07, 2020 */
 
 #include <stdio.h>
 int main() 
